@@ -1,6 +1,11 @@
 Breast Cancer Classification with Logistic Regression
-This project demonstrates the process of training and evaluating a machine learning model using the breast cancer dataset. The model is trained using Logistic Regression to predict whether a tumor is malignant or benign.
+
+This project demonstrates the process of training and evaluating a machine learning model using the breast cancer dataset. 
+
+The model is trained using Logistic Regression to predict whether a tumor is malignant or benign.
+
 Dataset
+
 The project uses the Breast Cancer Wisconsin dataset, which contains 30 features computed from digitized images of fine needle aspirates (FNAs) of breast cancer biopsies. The goal is to predict whether the tumor is malignant (1) or benign (0).
 
 Features: 30 numeric features describing various attributes like radius, texture, smoothness, etc.
